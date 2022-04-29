@@ -1,69 +1,88 @@
-# Laboratorio 1
+<div align="center">
+<table>
+    <theader>
+        <tr>
+            <td><img src="https://github.com/rescobedoq/pw2/blob/main/epis.png?raw=true" alt="EPIS" style="width:50%; height:auto"/></td>
+            <th>
+                <span style="font-weight:bold;">UNIVERSIDAD NACIONAL DE SAN AGUSTIN</span><br />
+                <span style="font-weight:bold;">FACULTAD DE INGENIERÍA DE PRODUCCIÓN Y SERVICIOS</span><br />
+                <span style="font-weight:bold;">ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS</span>
+            </th>
+            <td><img src="https://github.com/rescobedoq/pw2/blob/main/abet.png?raw=true" alt="ABET" style="width:50%; height:auto"/></td>
+        </tr>
+    </theader>
+    <tbody>
+        <tr><td colspan="3"><span style="font-weight:bold;">Formato</span>: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación</td></tr>
+        <tr><td><span style="font-weight:bold;">Aprobación</span>:  2022/03/01</td><td><span style="font-weight:bold;">Código</span>: GUIA-PRLE-001</td><td><span style="font-weight:bold;">Página</span>: 1</td></tr>
+    </tbody>
+</table>
+</div>
 
-## Description
+<div align="center">
+<span style="font-weight:bold;">INFORME DE LABORATORIO</span><br />
+<span>(formato estudiante)</span>
 
-Realizamos en grupo este laboratorio del curso de PWeb 2, los integrantes somos:
 
- - Italo Velita Aguilar - ivelitaunsa(ivelita@unsa.edu.pe)
- - Bryan Hancco Condori - bryanhancco(bhanccoco@unsa.edu.pe)
- - Eberth Azurin Zuñiga - Eberth(eazurin@unsa.edu.pe)
- - Barbara Carrillo Daza - Barbara280801(bcarrillo@unsa.edu.pe)
- - Franco Cárdenas Martines - francoCarMar(fcardenasm@unsa.edu.pe)
+<table>
+<theader>
+<tr><th colspan="6">INFORMACIÓN BÁSICA</th></tr>
+</theader>
+<tbody>
+<tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
+<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Git - GitHub</td></tr>
+<tr>
+<td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
+</tr>
+<tr>
+<td>FECHA DE PRESENTACIÓN:</td><td></td><td>HORA DE PRESENTACIÓN</td><td colspan="3"></td>
+</tr>
+<tr><td colspan="4">INTEGRANTE(s):
+<ul>
+<li>Barbara Carrillo Daza - bcarrillo@unsa.edu.pe</li>
+<li>Bryan Hancco Condori - bhanccoco@unsa.edu.pe</li>
+<li>Eberth Azurin Zuñiga - eazurin@unsa.edu.pe</li>
+<li>Franco Cárdenas Martines - fcardenasm@unsa.edu.pe</li>
+<li>Italo Velita Aguilar - ivelita@unsa.edu.pe</li>
+</ul>
+</td>
+<td>NOTA:</td><td></td>
+</<tr>
+<tr><td colspan="6">DOCENTE(s):
+<ul>
+<li>Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe)</li>
+</ul>
+</td>
+</<tr>
+</tbody>
+</table>
 
-Y el docente es: **Richart Smith Escobedo Quispe**
-## Table of Contents (Optional)
+<table>
+<theader>
+<tr><th>Solución y resultados</th></tr>
+</theader>
+<tbody>
+<tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</td></tr>
+<tr><td>II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
+<tr><td>III. CONCLUSIONES</td></tr>
+</tbody>
+</table>
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+<table>
+<theader>
+<tr><th>RETROALIMENTACIÓN GENERAL</th></tr>
+</theader>
+<tbody>
+<tr><td></td></tr>
+</tbody>
+</table>
 
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+<table>
+<theader>
+<tr><th>REFERENCIAS Y BIBLIOGRAFÍA</th></tr>
+</theader>
+<tbody>
+<tr><td></td></tr>
+</tbody>
+</table>
+</div>
