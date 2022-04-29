@@ -66,7 +66,7 @@
 Trabajo individual: Cada integrante creó su repositorio con un "hola mundo"
 LINKS INDIVIDUALES:
 FRANCO LUCHIANO CARDENAS MARTINEZ:
-https://github.com/francoCarMar/lab01-pweb2-individual-.git
+<a href ="https://github.com/francoCarMar/lab01-pweb2-individual-.git">FRANCO LUCHIANO CARDENAS MARTINEZ</a>
 Barbara Carrillo Daza:
 https://github.com/Barbara280801/Laboratorio01personal.git
       Italo Velita Aguilar:
