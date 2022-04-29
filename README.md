@@ -45,7 +45,7 @@
 <li>Italo Velita Aguilar - ivelita@unsa.edu.pe</li>
 </ul>
 </td>
-<td>NOTA:</td><td></td>
+<td>NOTA:</td><td colspan="2"></td>
 </<tr>
 <tr><td colspan="6">DOCENTE(s):
 <ul>
