@@ -67,6 +67,8 @@ Implementamos los métodos de la clase Calculator para luego interactuar en gitH
 grupo, para eso se crearon ramas en las que cada uno implementó su respectivo método,
 luego hicimos uso de nuevos comandos en git como git pull, git merge, git branch, git 
 checkout y aprendimos a usarlos a través de ensayo y error.<br>
+<p>Capturas de la implementacion de cada integrante</p>
+<img src="http://drive.google.com/uc?export=view&id=1Lw7TnwTKA1k3s_-T8mdoWy3okfS9olfJ" style="width:320;height:325">
 <b>Trabajo individual:</b>
 Cada integrante creó su repositorio con un "hola mundo" y un archivo README.md con los 
 detalles de su repositorio.<br>
