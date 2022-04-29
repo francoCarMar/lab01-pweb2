@@ -66,11 +66,11 @@
 Implementamos los métodos de la clase Calculator para luego interactuar en gitHub como
 grupo, para eso se crearon ramas en las que cada uno implementó su respectivo método,
 luego hicimos uso de nuevos comandos en git como git pull, git merge, git branch, git 
-checkout y aprendimos a usarlos a través de ensayo y error.
+checkout y aprendimos a usarlos a través de ensayo y error.<br>
 <b>Trabajo individual:</b>
 Cada integrante creó su repositorio con un "hola mundo" y un archivo README.md con los 
 detalles de su repositorio.
-LINKS INDIVIDUALES:
+<b>LINKS INDIVIDUALES:</b>
 <ul>
 <li><a href ="https://github.com/francoCarMar/lab01-pweb2-individual-.git">FRANCO LUCHIANO CARDENAS MARTINEZ</a></li>
 <li><a href ="https://github.com/Barbara280801/Laboratorio01personal.git">BARBARA CARRILLO DAZA</a></li>
