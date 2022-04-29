@@ -90,14 +90,17 @@ Es una herramienta importante porque nos permite tener un sistema de control ver
 
 <table>
 <theader>
-<tr><th>RETROALIMENTACIÓN GENERAL<br><br></th></tr>
+<tr><th>RETROALIMENTACIÓN GENERAL
+    <pre>                                                           </pre>
+    <pre>                                                           </pre>
+    </th></tr>
 </theader>
 <tbody>
 <tr><td></td></tr>
 </tbody>
 </table>
 </div>
-<span style='font-weigth:bold;'>REFERENCIAS Y BIBLIOGRAFÍA<span>
+<p><span style="font-weight:bold;">REFERENCIAS Y BIBLIOGRAFÍA<span></p>
 <ul>
 <li>https://guides.github.com/</li>
 <li>https://git-scm.com/book/es/v2</li>
