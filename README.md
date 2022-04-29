@@ -100,6 +100,12 @@ Es una herramienta importante porque nos permite tener un sistema de control ver
 <table>
 <theader>
 <tr><th>REFERENCIAS Y BIBLIOGRAFÍA</th></tr>
+<td colspan="3">
+<ul>
+<li>https://guides.github.com/</li>
+<li>https://git-scm.com/book/es/v2</li>
+</ul>
+</td>
 </theader>
 <tbody>
 <tr><td></td></tr>
