@@ -66,7 +66,7 @@
 Trabajo individual: Cada integrante creó su repositorio con un "hola mundo"
 LINKS INDIVIDUALES:
 <ul>
-<li><li><a href ="https://github.com/francoCarMar/lab01-pweb2-individual-.git">FRANCO LUCHIANO CARDENAS MARTINEZ</a></li>
+<li><a href ="https://github.com/francoCarMar/lab01-pweb2-individual-.git">FRANCO LUCHIANO CARDENAS MARTINEZ</a></li>
 <li><a href ="https://github.com/Barbara280801/Laboratorio01personal.git">BARBARA CARRILLO DAZA</a></li>
 <li><a href ="https://github.com/ivelitaunsa/firstRepository.git">ITALO VELITA AGUILAR</a></li>
 <li><a href ="https://github.com/eazurin/pweb2.git ">EBERTH AZURIN ZUÑIGA</a></li>
