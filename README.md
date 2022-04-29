@@ -95,7 +95,7 @@ Es una herramienta importante porque nos permite tener un sistema de control ver
 </theader>
 <tbody>
 <tr><td>
-     <pre>                                                                                                                     </pre>
+     <pre>                                                                                                                    </pre>
     <pre>                                                                                                                 </pre>
     </td></tr>
 </tbody>
