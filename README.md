@@ -74,6 +74,7 @@ LINKS INDIVIDUALES:
 </ul>
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
 <tr><td>III. CONCLUSIONES</td></tr>
+<tr><td><p>En la presente practica pudimos comprender en carne propia, que git es una herramienta que no solo nos permite controlar las versiones de nuestros programas, sino que también nos permite trabajar en grupo para poder hacer programas mas grandes y complejos, siempre y cuando se tenga una adecuada coordinación.</p></td></tr>
 </tbody>
 </table>
 
