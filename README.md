@@ -73,6 +73,9 @@ LINKS INDIVIDUALES:
 <li><a href ="https://github.com/bryanhancco/PWeb2---Individual/tree/main/Laboratorio01">BRYAN HANCCO CONDORI</a></li></pre>
 </ul>
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
+<tr><td><p>¿Por qué Git es una herramienta importante en el curso de Programación Web 2?<br>
+Es una herramienta importante porque nos permite tener un sistema de control versiones en los archivos para así tener un seguimiento progresivo del proyecto, además, sirve para el trabajo colaborativo puesto que se establece una conexión entre los integrantes del grupo y el proyecto, considerando que el trabajo en equipo es un pilar fundamental en el desarrollo web.
+</p></td></tr>
 <tr><td>III. CONCLUSIONES</td></tr>
 <tr><td><p>En la presente practica pudimos comprender en carne propia, que git es una herramienta que no solo nos permite controlar las versiones de nuestros programas, sino que también nos permite trabajar en grupo para poder hacer programas mas grandes y complejos, siempre y cuando se tenga una adecuada coordinación.</p></td></tr>
 </tbody>
