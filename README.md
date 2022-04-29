@@ -62,6 +62,18 @@
 </theader>
 <tbody>
 <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</td></tr>
+<tr><td><pre>Trabajo grupal:
+Trabajo individual: Cada integrante creó su repositorio con un "hola mundo"
+LINKS INDIVIDUALES:
+FRANCO LUCHIANO CARDENAS MARTINEZ:
+https://github.com/francoCarMar/lab01-pweb2-individual-.git
+Barbara Carrillo Daza:
+https://github.com/Barbara280801/Laboratorio01personal.git
+      Italo Velita Aguilar:
+https://github.com/ivelitaunsa/firstRepository.git
+Eberth Azurin Zuñiga:
+https://github.com/eazurin/pweb2.git 
+Bryan Hancco Condori:</pre></td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
 <tr><td>III. CONCLUSIONES</td></tr>
 </tbody>
