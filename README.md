@@ -58,10 +58,10 @@
 
 <table>
 <theader>
-<tr><th>Solución y resultados</th></tr>
+<tr><th>SOLUCIÓN Y RESULTADOS</th></tr>
 </theader>
 <tbody>
-<tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</td></tr>
+<tr><td><b>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS</b></td></tr>
 <tr><td><pre><b>Trabajo grupal:</b>
 Implementamos los métodos de la clase Calculator para luego interactuar en gitHub como
 grupo, para eso se crearon ramas en las que cada uno implementó su respectivo método,
@@ -69,7 +69,7 @@ luego hicimos uso de nuevos comandos en git como git pull, git merge, git branch
 checkout y aprendimos a usarlos a través de ensayo y error.<br>
 <b>Trabajo individual:</b>
 Cada integrante creó su repositorio con un "hola mundo" y un archivo README.md con los 
-detalles de su repositorio.
+detalles de su repositorio.<br>
 <b>LINKS INDIVIDUALES:</b>
 <ul>
 <li><a href ="https://github.com/francoCarMar/lab01-pweb2-individual-.git">FRANCO LUCHIANO CARDENAS MARTINEZ</a></li>
@@ -78,11 +78,11 @@ detalles de su repositorio.
 <li><a href ="https://github.com/eazurin/pweb2.git ">EBERTH AZURIN ZUÑIGA</a></li>
 <li><a href ="https://github.com/bryanhancco/PWeb2---Individual/tree/main/Laboratorio01">BRYAN HANCCO CONDORI</a></li></pre>
 </ul>
-<tr><td>II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
+<tr><td><b>II. SOLUCIÓN DEL CUESTIONARIO</b></td></tr>
 <tr><td><p><b>¿Por qué Git es una herramienta importante en el curso de Programación Web 2?</b><br>
 Es una herramienta importante porque nos permite tener un sistema de control versiones en los archivos para así tener un seguimiento progresivo del proyecto, además, sirve para el trabajo colaborativo puesto que se establece una conexión entre los integrantes del grupo y el proyecto, considerando que el trabajo en equipo es un pilar fundamental en el desarrollo web.
 </p></td></tr>
-<tr><td>III. CONCLUSIONES</td></tr>
+<tr><td><b>III. CONCLUSIONES</b></td></tr>
 <tr><td><p>En la presente practica pudimos comprender en carne propia, que git es una herramienta que no solo nos permite controlar las versiones de nuestros programas, sino que también nos permite trabajar en grupo para poder hacer programas mas grandes y complejos, siempre y cuando se tenga una adecuada coordinación.</p></td></tr>
 </tbody>
 </table>
