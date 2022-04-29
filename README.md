@@ -36,7 +36,7 @@
 <tr>
 <td>FECHA DE PRESENTACIÓN:</td><td></td><td>HORA DE PRESENTACIÓN</td><td colspan="3"></td>
 </tr>
-<tr><td colspan="4">INTEGRANTE(s):
+<tr><td colspan="3">INTEGRANTE(s):
 <ul>
 <li>Barbara Carrillo Daza - bcarrillo@unsa.edu.pe</li>
 <li>Bryan Hancco Condori - bhanccoco@unsa.edu.pe</li>
