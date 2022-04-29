@@ -70,7 +70,7 @@ LINKS INDIVIDUALES:
 <li><a href ="https://github.com/Barbara280801/Laboratorio01personal.git">BARBARA CARRILLO DAZA</a></li>
 <li><a href ="https://github.com/ivelitaunsa/firstRepository.git">ITALO VELITA AGUILAR</a></li>
 <li><a href ="https://github.com/eazurin/pweb2.git ">EBERTH AZURIN ZUÑIGA</a></li>
-<li><a href ="https://github.com/eazurin/pweb2.git ">BRYAN HANCCO CONDORI</a></li></pre>
+<li><a href ="https://github.com/bryanhancco/PWeb2---Individual/tree/main/Laboratorio01">BRYAN HANCCO CONDORI</a></li></pre>
 </ul>
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
 <tr><td>III. CONCLUSIONES</td></tr>
