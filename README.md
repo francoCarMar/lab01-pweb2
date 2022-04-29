@@ -65,15 +65,11 @@
 <tr><td><pre>Trabajo grupal:
 Trabajo individual: Cada integrante creó su repositorio con un "hola mundo"
 LINKS INDIVIDUALES:
-FRANCO LUCHIANO CARDENAS MARTINEZ:
 <a href ="https://github.com/francoCarMar/lab01-pweb2-individual-.git">FRANCO LUCHIANO CARDENAS MARTINEZ</a>
-Barbara Carrillo Daza:
-https://github.com/Barbara280801/Laboratorio01personal.git
-      Italo Velita Aguilar:
-https://github.com/ivelitaunsa/firstRepository.git
-Eberth Azurin Zuñiga:
-https://github.com/eazurin/pweb2.git 
-Bryan Hancco Condori:</pre></td></tr>
+<a href ="https://github.com/Barbara280801/Laboratorio01personal.git">BARBARA CARRILLO DAZA</a>
+<a href ="https://github.com/ivelitaunsa/firstRepository.git">ITALO VELITA AGUILAR</a>
+<a href ="https://github.com/eazurin/pweb2.git ">EBERTH AZURIN ZUÑIGA</a>
+<a href ="https://github.com/eazurin/pweb2.git ">BRYAN HANCCO CONDORI</a>
 <tr><td>II. SOLUCIÓN DEL CUESTIONARIO</td></tr>
 <tr><td>III. CONCLUSIONES</td></tr>
 </tbody>
