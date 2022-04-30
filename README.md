@@ -41,7 +41,7 @@
 <li>Barbara Carrillo Daza - bcarrillo@unsa.edu.pe</li>
 <li>Bryan Hancco Condori - bhanccoco@unsa.edu.pe</li>
 <li>Eberth Azurin Zuñiga - eazurin@unsa.edu.pe</li>
-<li>Franco Cárdenas Martines - fcardenasm@unsa.edu.pe</li>
+<li>Franco Cárdenas Martinez - fcardenasm@unsa.edu.pe</li>
 <li>Italo Velita Aguilar - ivelita@unsa.edu.pe</li>
 </ul>
 </td>
