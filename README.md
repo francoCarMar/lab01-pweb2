@@ -101,7 +101,7 @@ Es una herramienta importante porque nos permite tener un sistema de control ver
 </tbody>
 </table>
 </div>
-<p><span style="font-weight:bold;">REFERENCIAS Y BIBLIOGRAFÍA</span></p>
+<p><b>REFERENCIAS Y BIBLIOGRAFÍA</b></p>
 <ul>
 <li>https://guides.github.com/</li>
 <li>https://git-scm.com/book/es/v2</li>
