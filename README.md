@@ -70,7 +70,11 @@ checkout y aprendimos a usarlos a través de ensayo y error.<br>
 <b>Capturas de la implementacion de cada integrante:</b><br>
 <img src="http://drive.google.com/uc?export=view&id=14hIaLGBcZxSXgj98G7ddGpWKEnh7MlxE" alt="commits" style="width:360px;height:550px">
 
+<<<<<<< HEAD
 <p><b>NOTA:</b> El resto de commits (45) son modificaciones del informe , en su mayoria esteticas. </p>
+=======
+<p><b>NOTA:</b> El resto de commits (46) son modificaciones del informe , en su mayoria esteticas. </p>
+>>>>>>> origin/main
 <b>Trabajo individual:</b>
 Cada integrante creó su repositorio con un "hola mundo" y un archivo README.md con los 
 detalles de su repositorio.<br>
@@ -99,8 +103,8 @@ Es una herramienta importante porque nos permite tener un sistema de control ver
 </theader>
 <tbody>
 <tr><td>
-    <pre>                                                                                                                    </pre>
-    <pre>                                                                                                                    </pre>
+    <pre>                                                                                          </pre>
+    <pre>                                                                                          </pre>
     </td></tr>
 </tbody>
 </table>
