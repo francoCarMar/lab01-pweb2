@@ -90,20 +90,23 @@ Es una herramienta importante porque nos permite tener un sistema de control ver
 <tr><td><p>En la presente practica pudimos comprender en carne propia, que git es una herramienta que no solo nos permite controlar las versiones de nuestros programas, sino que también nos permite trabajar en grupo para poder hacer programas mas grandes y complejos, siempre y cuando se tenga una adecuada coordinación.</p></td></tr>
 </tbody>
 </table>
-
+</div>
 
 <table>
 <theader>
-<tr><th>RETROALIMENTACIÓN GENERAL</th></tr>
+<tr><th>RETROALIMENTACIÓN GENERAL
+    </th></tr>
 </theader>
 <tbody>
-<tr><td></td></tr>
+<tr><td>
+     <pre>                                                                                                                    </pre>
+    <pre>                                                                                                                 </pre>
+    </td></tr>
 </tbody>
 </table>
-
-## REFERENCIAS Y BIBLIOGRAFÍA
+</div>
+<p><b>REFERENCIAS Y BIBLIOGRAFÍA</b></p>
 <ul>
 <li>https://guides.github.com/</li>
 <li>https://git-scm.com/book/es/v2</li>
 </ul>
-
