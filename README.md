@@ -70,7 +70,7 @@ checkout y aprendimos a usarlos a través de ensayo y error.<br>
 <b>Capturas de la implementacion de cada integrante:</b><br>
 <img src="http://drive.google.com/uc?export=view&id=14hIaLGBcZxSXgj98G7ddGpWKEnh7MlxE" alt="commits" style="width:360px;height:550px">
 
-<p><b>NOTA:</b> El resto de commits son modificaciones del informe , en su mayoria esteticas. </p>
+<p><b>NOTA:</b> El resto de commits (46) son modificaciones del informe , en su mayoria esteticas. </p>
 <b>Trabajo individual:</b>
 Cada integrante creó su repositorio con un "hola mundo" y un archivo README.md con los 
 detalles de su repositorio.<br>
@@ -90,7 +90,7 @@ Es una herramienta importante porque nos permite tener un sistema de control ver
 <tr><td><p>En la presente practica pudimos comprender en carne propia, que git es una herramienta que no solo nos permite controlar las versiones de nuestros programas, sino que también nos permite trabajar en grupo para poder hacer programas mas grandes y complejos, siempre y cuando se tenga una adecuada coordinación.</p></td></tr>
 </tbody>
 </table>
-</div>
+
 
 <table>
 <theader>
@@ -99,12 +99,13 @@ Es una herramienta importante porque nos permite tener un sistema de control ver
 </theader>
 <tbody>
 <tr><td>
-    <pre>                                                                                                                    </pre>
-    </pre>                                                                                                                 </pre>
+    <pre>                                                                                          </pre>
+    <pre>                                                                                          </pre>
     </td></tr>
 </tbody>
 </table>
 </div>
+
 <p><b>REFERENCIAS Y BIBLIOGRAFÍA</b></p>
 <ul>
 <li>https://guides.github.com/</li>
