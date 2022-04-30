@@ -67,6 +67,10 @@ Implementamos los métodos de la clase Calculator para luego interactuar en gitH
 grupo, para eso se crearon ramas en las que cada uno implementó su respectivo método,
 luego hicimos uso de nuevos comandos en git como git pull, git merge, git branch, git 
 checkout y aprendimos a usarlos a través de ensayo y error.<br>
+<b>Capturas de la implementacion de cada integrante:</b><br>
+<img src="http://drive.google.com/uc?export=view&id=14hIaLGBcZxSXgj98G7ddGpWKEnh7MlxE" alt="commits" style="width:360px;height:550px">
+
+<p><b>NOTA:</b> El resto de commits son modificaciones del informe , en su mayoria esteticas. </p>
 <b>Trabajo individual:</b>
 Cada integrante creó su repositorio con un "hola mundo" y un archivo README.md con los 
 detalles de su repositorio.<br>
@@ -90,18 +94,14 @@ Es una herramienta importante porque nos permite tener un sistema de control ver
 
 <table>
 <theader>
-<tr><th>RETROALIMENTACIÓN GENERAL
-    </th></tr>
+<tr><th>RETROALIMENTACIÓN GENERAL</th></tr>
 </theader>
 <tbody>
-<tr><td>
-     <pre>                                                                                                                    </pre>
-    <pre>                                                                                                                 </pre>
-    </td></tr>
+<tr><td></td></tr>
 </tbody>
 </table>
-</div>
-<p><b>REFERENCIAS Y BIBLIOGRAFÍA</b></p>
+
+## REFERENCIAS Y BIBLIOGRAFÍA
 <ul>
 <li>https://guides.github.com/</li>
 <li>https://git-scm.com/book/es/v2</li>
