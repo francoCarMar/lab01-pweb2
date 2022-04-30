@@ -68,7 +68,7 @@ grupo, para eso se crearon ramas en las que cada uno implementó su respectivo m
 luego hicimos uso de nuevos comandos en git como git pull, git merge, git branch, git 
 checkout y aprendimos a usarlos a través de ensayo y error.<br>
 <b>Capturas de la implementacion de cada integrante:</b><br>
-<img src="http://drive.google.com/uc?export=view&id=14hIaLGBcZxSXgj98G7ddGpWKEnh7MlxE" alt="commits" style="width:360px;height:570px">
+<img src="http://drive.google.com/uc?export=view&id=14hIaLGBcZxSXgj98G7ddGpWKEnh7MlxE" alt="commits" style="width:360px;height:550px">
 
 <p><b>NOTA:</b> El resto de commits son modificaciones del informe , en su mayoria esteticas. </p>
 <b>Trabajo individual:</b>
